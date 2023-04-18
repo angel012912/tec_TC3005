@@ -32,7 +32,7 @@ def outer(x) -> Callable:
 
 add_five: Callable = outer(5)
 result = add_five(6)
-print(result)  #  what does this print?
+print(result)  # what does this print?
 
 
 # Function as an argument
