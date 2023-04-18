@@ -1,3 +1,8 @@
+# Author: Jose Angel Garcia Gomez
+# Date: 17-04-2023
+# Description: Decorator exercise
+
+
 from typing import Callable
 
 
